@@ -9,7 +9,7 @@ const EventEmitter = require('events');
 function createWindow() {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
-    width: 13668888,  
+    width: 136688880,  
     height: 768,
     // titleBarStyle: "hidden",
     // frame: false,
